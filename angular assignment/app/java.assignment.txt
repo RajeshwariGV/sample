@@ -1,0 +1,115 @@
+class Demo{
+public static void main(string[] args);
+byte A = 128;
+System.out.println(A);
+}
+}
+
+class Demo1{
+public static void main(string[] args);
+short B= 32768;
+System.out.println(B);
+}
+}
+
+
+class Demo2{
+public static void main(string[] args);
+float R = 1.32768;
+System.out.println(R);
+}
+}
+
+class Demo3{
+public static void main(string[] args);
+Char C3 = 'A';
+System.out.println(C3);
+}
+}
+
+
+class Demo4{
+public static void main(string[] args);
+boolean T = 'True';
+System.out.println(T);
+}
+}
+
+class Demo5{
+public static void main(string[] args);
+boolean F = 'False';
+System.out.println(F);
+}
+}
+
+
+
+
+                Variables
+==========================================================
+datatype var;// declaration
+var = value;// 
+ =>When ever we need to perform any operations we need Variables
+
+                    Operators
+===============================================================
+public class Subtraction{
+public stativc void main(string []args){
+
+int i = 10;
+int j = 20;
+int res = i - j;
+
+System.out.println("Result = "+res); //utilization
+}
+}
+===========================================================
+public class Multiplication{
+public stativc void main(string []args){
+
+int i = 10;
+int j = 20;
+int res = i * j;
+
+System.out.println("Result = "+res); //utilization
+}
+}
+===========================================================
+public class Division{
+public stativc void main(string []args){
+
+int i = 10;
+int j = 20;
+int res = i / j;
+
+System.out.println("Result = "+res); //utilization
+}
+}
+===========================================================
+public class ArithmeticOperators{
+public stativc void main(string []args){
+
+int i = 10;
+int j = 20;
+int res = i % j;
+
+System.out.println("Result = "+res); //utilization
+}
+}
+=============================================================
+public class ArithmeticOperators{
+public stativc void main(string []args){
+
+int i = 10;
+int j = 20;
+int res = i + j;
+int sub = i-j;
+int mul = i*j;
+int div = i/j
+
+System.out.println("Result = "+res); 
+System.out.println("sub = "+sub);
+System.out.println("mul = "+mul);
+System.out.println("div = "+div);//utilization
+}
+}
