@@ -1,0 +1,12 @@
+table,td,th{
+    border-radius: 3px;
+    border-color: lavender;
+    border-width: 1px;
+    
+}
+#a1{
+    padding-right: 50px;
+}
+td{
+    padding-right: 20px;
+}

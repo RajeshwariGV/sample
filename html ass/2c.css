@@ -1,0 +1,35 @@
+#a1{
+    background-color:black;
+    height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+form{
+    margin-left: 400px;
+    margin-top: 20px;
+    margin-right: 200px;
+    border-top: 1px solid blueviolet;
+    border-left: 1px  lavenderblush; 
+    padding-top: 15px;
+    background-color: lightgrey;
+    font-family: calibri;
+    font-size: 10px;
+}
+button{
+    margin-left: 150px;
+    margin-top: 9px;
+    background-color: darkorange;
+    text-align: center;
+    border-color: darkorange;
+    border-radius: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+    
+}
+input,select{
+    border-radius: 4px;
+}
